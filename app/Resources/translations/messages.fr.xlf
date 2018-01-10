@@ -247,6 +247,10 @@
                 <source>menu.logout</source>
                 <target>Déconnexion</target>
             </trans-unit>
+            <trans-unit id="menu.project">
+                <source>menu.project</source>
+                <target>Projets</target>
+            </trans-unit>
             <trans-unit id="menu.rss">
                 <source>menu.rss</source>
                 <target>Blog Posts RSS</target>
