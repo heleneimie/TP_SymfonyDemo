@@ -1,0 +1,8 @@
+easy_admin:
+    entities:
+        - AppBundle\Entity\User
+        - AppBundle\Entity\Post
+        - AppBundle\Entity\Comment
+        - AppBundle\Entity\Tag
+        - AppBundle\Entity\Project
+        - AppBundle\Entity\Picture

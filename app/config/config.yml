@@ -8,6 +8,7 @@ imports:
     - { resource: parameters.yml }
     - { resource: security.yml }
     - { resource: services.yml }
+    - { resource: easy_admin.yml }
 
 # These are the configuration parameters that define the application's behavior
 # and which are independent from the underlying technical infrastructure
@@ -24,7 +25,7 @@ framework:
     # Supported values are 'phpstorm', 'sublime', 'textmate', 'macvim' and 'emacs'.
     # When 'ide' is set to null the file is opened in your web browser.
     # See https://symfony.com/doc/current/reference/configuration/framework.html#ide
-    ide: ~
+    ide: phpstorm
 
     # When using the HTTP Cache, ESI allows to render page fragments separately
     # and with different cache configurations for each fragment

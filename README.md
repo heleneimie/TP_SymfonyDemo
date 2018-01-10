@@ -81,3 +81,5 @@ $ cd symfony_demo/
 $ git checkout tags/v0.8.4 -b v0.8.4
 $ composer install
 ```
+# TP_SymfonyDemo
+TP basé sur le projet Symfony Demo de Sensio Labs.
