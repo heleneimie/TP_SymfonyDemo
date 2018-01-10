@@ -7,7 +7,7 @@
 !/var/cache
 /var/cache/*
 !var/cache/.gitkeep
-!/var/data
+/var/data/*
 !/var/logs
 /var/logs/*
 !var/logs/.gitkeep
@@ -19,3 +19,15 @@
 /web/bundles/
 /web/build/fonts/glyphicons-*
 /web/build/images/glyphicons-*
+.idea/
+.web-server-pid
+*.log
+*.sql
+*.sqlite
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+/bin/*
